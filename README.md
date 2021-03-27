@@ -1,3 +1,8 @@
+# java-digital-signature-example
+a Java digital signature example by common and cms approaches with logging and maven jars dependencies
+
+
+
 ### 1.Generate key pair for Digital Signature Common Approach
 #### 1-1.Generate key pair as keystore(use in source for signing)
 ```shell
